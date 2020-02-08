@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="43674" started-at="2020-02-08T05:52:49Z" finished-at="2020-02-08T05:53:33Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="43674" started-at="2020-02-08T05:52:49Z" finished-at="2020-02-08T05:53:33Z">
+      <class name="Test.WebstaurantPageObject">
+        <test-method status="PASS" signature="testCase1()[pri:0, instance:Test.WebstaurantPageObject@1810399e]" name="testCase1" duration-ms="19400" started-at="2020-02-07T23:52:49Z" finished-at="2020-02-07T23:53:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase1 -->
+        <test-method status="PASS" signature="testCase2()[pri:0, instance:Test.WebstaurantPageObject@1810399e]" name="testCase2" duration-ms="24241" started-at="2020-02-07T23:53:09Z" finished-at="2020-02-07T23:53:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase2 -->
+      </class> <!-- Test.WebstaurantPageObject -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
